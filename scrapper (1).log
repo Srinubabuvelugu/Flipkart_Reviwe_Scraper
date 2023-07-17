@@ -1,0 +1,933 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:32:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:32:26] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:32:26] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:32:26] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:32:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:27] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:27] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:33:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:34:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:34:50] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:34:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:34:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:34:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:35:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:35:33] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:35:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:35:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:35:38] "[33mPOST /Reviwe HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:36:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:36:26] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:36:26] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:36:34] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:42:01] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:44:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:44:35] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:47:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:47:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:47:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:47:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:47:57] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-564-674
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:48:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [16/Jul/2023 22:48:55] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-951-092
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 10:33:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 10:33:30] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-951-092
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 10:35:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 10:35:42] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-951-092
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 10:46:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 10:46:08] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-951-092
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:00:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:00:42] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-951-092
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:08:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:08:23] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-951-092
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:16:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:16:08] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:16:13] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-951-092
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:18:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:18:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 11:18:13] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-951-092
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 13:07:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 13:07:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 13:07:44] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:14:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:14:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:14:10] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:15:33] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:15:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:15:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:15:41] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:17:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:18:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:18:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:18:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:19:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:19:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:19:09] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:20:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:20:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:20:12] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:20:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:20:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:20:51] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:22:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:22:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:22:57] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:24:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:24:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:24:31] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:27:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:27:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'pocom2pro', 'User Name': 'Rajeev Kumar', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Perfect product!', 'Product Reviwe': 'The phone offers good performance, average display, long battery life, a spectacular design, and a camera that takes good daylight pictures. The poco m2 pro is a value for money device and I believe it is can give tough competition to its closest'}
+INFO:root:{'S.No': 2, 'Product Name': 'pocom2pro', 'User Name': 'Mohammed Nayeem Ansari', 'Product Reating': '5', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Great product', 'Product Reviwe': "This is typical of Xiaomi phones. Only exception is  phone has less adsPacked with miui 12 features. Camera is pretty good. Nice display and I loved its back design. I dnt play too many games but the performance is very good. Didn't feel any lag.... If u want budget phone and a redmi fan go for it"}
+INFO:root:{'S.No': 3, 'Product Name': 'pocom2pro', 'User Name': 'Paras Bhattt', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Classy product', 'Product Reviwe': "Such a amazing phoneDelivered 3 days early from the expected dateCamera is amazingProcessor 720 g is awesome and blazing fast performanceBattery is look like a 4500mah battery not like 5000 but still good battery backup.Front camera is 16 megapixel and is still amazing like 48 megapixel camera Only hate the thing that first two sales I didn't get it.but I recommend you please unboxing the product in front of the delivery boy.The cons isNo screen saver No 90 hertz display"}
+INFO:root:{'S.No': 4, 'Product Name': 'pocom2pro', 'User Name': 'Lisa prabha Prabha', 'Product Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Delightful', 'Product Reviwe': "1.The camera is very good but it's better to use the regular      camera Or 48mp mode than choosing macro lens for macro photography.  2.Front camera is also really good. 3.I think this is the best smartphone in this price range and also has a premium look and great built quality too. 4.No heating trouble is there,no battery drainage till now😀. 5.There no heating trouble while playing games too(pubg, free fire etc). 6.Overall it's a good smartphone with great specs."}
+INFO:root:{'S.No': 5, 'Product Name': 'pocom2pro', 'User Name': 'Narendra Singh', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Just wow!', 'Product Reviwe': 'I AM writing this Review after 7 days useBattery life is 36 hours for average users. Charging speed is Impressive 64% charge only in 30 minutes. Camera is quite good macro shot is most beautifull.. Nice processor.. Excellent sound.. Brightness is also good... Selfie camera can improve...'}
+INFO:root:{'S.No': 6, 'Product Name': 'pocom2pro', 'User Name': 'Flipkart Customer', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Terrific', 'Product Reviwe': "Hi all,As I have bought Poco M2 pro on first sale, I would like to share my review on this.I would give you my honest experience..I will talk only about the Lacunas/cons of this phone,1.Battery-it lasts only for 24 hrs by general use,(like phone call, YouTube, whatsup video call) without gaming, while gaming it's battery drains fastly, for charging it takes 1.21 hrs.2.Camera-As it is 48 MP, I personally did not find anything like 48 MP, rather samsung M30 has better quality of pics than ..."}
+INFO:root:{'S.No': 7, 'Product Name': 'pocom2pro', 'User Name': 'Basanta Pal', 'Product Reating': '5', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Terrific purchase', 'Product Reviwe': 'best value for money..i like glass back with Gorilla glass 5 also front .the prosessor is so powerful . display is ok ok . camera good'}
+INFO:root:{'S.No': 8, 'Product Name': 'pocom2pro', 'User Name': 'Arvind Arvind', 'Product Reating': '5', 'Reviwe Date': 'Feb, 2021', 'Reviwe Head': 'Terrific', 'Product Reviwe': 'GOODS 1. BEST BUDGET MOBILE IN THIS RANGE.2. SNAPDRAGON 720G ✨⚡👍 3. 33W FAST CHARGING SUPPORT (0 TO 100) JUST 52MINS . 4. ANDROID 10 MIUI 12 JUST OK 5. USER FRIENDLY6.NO ADS 7. CAMERA 48MG GOOD PICTURE AND 4K VIDEO EXCELLENT. 8. NIGHT MODE IS AWESOME.9. FRONT CAMERA BETTER 😺10. FACE UNLOCK VERY FASTER.11.  PORTRAIT SHOOT ARE GOOD . BADS1. WASTED LCD DISPLAY .2. SLIGHTLY HEATING ISSUES.3. CAMERA WORST .4. 4 CAMERA MACRO IS ONE OF THE WASTE IN PHONE.5. SOUND NOT LOUDLY COMPA...'}
+INFO:root:{'S.No': 9, 'Product Name': 'pocom2pro', 'User Name': 'Chanakiya Varma', 'Product Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Really Nice', 'Product Reviwe': "This phone comes with decent specifications....And the audio output is pretty good. One who is looking for best camera then you should not buy this..though it has a samsung isocell camera sensor..it struggles a lot while focusing...Redmi note 7 pro even came with sony sensor...then i don't know why the upcoming phones are coming with samsung sensorWhile coming to the battery part...it gives a excellent battery backup..Screen On time would be 9.5hrs max .Display is good..I appreciate this p..."}
+INFO:root:{'S.No': 10, 'Product Name': 'pocom2pro', 'User Name': 'sanjay mohanty', 'Product Reating': '4', 'Reviwe Date': 'Dec, 2020', 'Reviwe Head': 'Worth the money', 'Product Reviwe': 'SUPERB PHONE WITH GREAT PERFORMANCE..I ALWAYS PREFER POCO FOR HIS BETTER PERFORMANCE THEN OTHER PHONES....'}
+INFO:root:{'S.No': 11, 'Product Name': 'pocom2pro', 'User Name': 'No name', 'Product Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:27:17] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:30:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:30:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'pocom2pro', 'User Name': 'Rajeev Kumar', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Perfect product!', 'Product Reviwe': 'The phone offers good performance, average display, long battery life, a spectacular design, and a camera that takes good daylight pictures. The poco m2 pro is a value for money device and I believe it is can give tough competition to its closest'}
+INFO:root:{'S.No': 2, 'Product Name': 'pocom2pro', 'User Name': 'Mohammed Nayeem Ansari', 'Product Reating': '5', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Great product', 'Product Reviwe': "This is typical of Xiaomi phones. Only exception is  phone has less adsPacked with miui 12 features. Camera is pretty good. Nice display and I loved its back design. I dnt play too many games but the performance is very good. Didn't feel any lag.... If u want budget phone and a redmi fan go for it"}
+INFO:root:{'S.No': 3, 'Product Name': 'pocom2pro', 'User Name': 'Paras Bhattt', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Classy product', 'Product Reviwe': "Such a amazing phoneDelivered 3 days early from the expected dateCamera is amazingProcessor 720 g is awesome and blazing fast performanceBattery is look like a 4500mah battery not like 5000 but still good battery backup.Front camera is 16 megapixel and is still amazing like 48 megapixel camera Only hate the thing that first two sales I didn't get it.but I recommend you please unboxing the product in front of the delivery boy.The cons isNo screen saver No 90 hertz display"}
+INFO:root:{'S.No': 4, 'Product Name': 'pocom2pro', 'User Name': 'Lisa prabha Prabha', 'Product Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Delightful', 'Product Reviwe': "1.The camera is very good but it's better to use the regular      camera Or 48mp mode than choosing macro lens for macro photography.  2.Front camera is also really good. 3.I think this is the best smartphone in this price range and also has a premium look and great built quality too. 4.No heating trouble is there,no battery drainage till now😀. 5.There no heating trouble while playing games too(pubg, free fire etc). 6.Overall it's a good smartphone with great specs."}
+INFO:root:{'S.No': 5, 'Product Name': 'pocom2pro', 'User Name': 'Narendra Singh', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Just wow!', 'Product Reviwe': 'I AM writing this Review after 7 days useBattery life is 36 hours for average users. Charging speed is Impressive 64% charge only in 30 minutes. Camera is quite good macro shot is most beautifull.. Nice processor.. Excellent sound.. Brightness is also good... Selfie camera can improve...'}
+INFO:root:{'S.No': 6, 'Product Name': 'pocom2pro', 'User Name': 'Flipkart Customer', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Terrific', 'Product Reviwe': "Hi all,As I have bought Poco M2 pro on first sale, I would like to share my review on this.I would give you my honest experience..I will talk only about the Lacunas/cons of this phone,1.Battery-it lasts only for 24 hrs by general use,(like phone call, YouTube, whatsup video call) without gaming, while gaming it's battery drains fastly, for charging it takes 1.21 hrs.2.Camera-As it is 48 MP, I personally did not find anything like 48 MP, rather samsung M30 has better quality of pics than ..."}
+INFO:root:{'S.No': 7, 'Product Name': 'pocom2pro', 'User Name': 'Basanta Pal', 'Product Reating': '5', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Terrific purchase', 'Product Reviwe': 'best value for money..i like glass back with Gorilla glass 5 also front .the prosessor is so powerful . display is ok ok . camera good'}
+INFO:root:{'S.No': 8, 'Product Name': 'pocom2pro', 'User Name': 'Arvind Arvind', 'Product Reating': '5', 'Reviwe Date': 'Feb, 2021', 'Reviwe Head': 'Terrific', 'Product Reviwe': 'GOODS 1. BEST BUDGET MOBILE IN THIS RANGE.2. SNAPDRAGON 720G ✨⚡👍 3. 33W FAST CHARGING SUPPORT (0 TO 100) JUST 52MINS . 4. ANDROID 10 MIUI 12 JUST OK 5. USER FRIENDLY6.NO ADS 7. CAMERA 48MG GOOD PICTURE AND 4K VIDEO EXCELLENT. 8. NIGHT MODE IS AWESOME.9. FRONT CAMERA BETTER 😺10. FACE UNLOCK VERY FASTER.11.  PORTRAIT SHOOT ARE GOOD . BADS1. WASTED LCD DISPLAY .2. SLIGHTLY HEATING ISSUES.3. CAMERA WORST .4. 4 CAMERA MACRO IS ONE OF THE WASTE IN PHONE.5. SOUND NOT LOUDLY COMPA...'}
+INFO:root:{'S.No': 9, 'Product Name': 'pocom2pro', 'User Name': 'Chanakiya Varma', 'Product Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Really Nice', 'Product Reviwe': "This phone comes with decent specifications....And the audio output is pretty good. One who is looking for best camera then you should not buy this..though it has a samsung isocell camera sensor..it struggles a lot while focusing...Redmi note 7 pro even came with sony sensor...then i don't know why the upcoming phones are coming with samsung sensorWhile coming to the battery part...it gives a excellent battery backup..Screen On time would be 9.5hrs max .Display is good..I appreciate this p..."}
+INFO:root:{'S.No': 10, 'Product Name': 'pocom2pro', 'User Name': 'sanjay mohanty', 'Product Reating': '4', 'Reviwe Date': 'Dec, 2020', 'Reviwe Head': 'Worth the money', 'Product Reviwe': 'SUPERB PHONE WITH GREAT PERFORMANCE..I ALWAYS PREFER POCO FOR HIS BETTER PERFORMANCE THEN OTHER PHONES....'}
+INFO:root:{'S.No': 11, 'Product Name': 'pocom2pro', 'User Name': 'No name', 'Product Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:30:32] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:30:32] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:30:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:31:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:31:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:31:45] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:root:{'S.No': 1, 'Product Name': 'poco m2 pro', 'User Name': 'Rajeev Kumar', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Perfect product!', 'Product Reviwe': 'The phone offers good performance, average display, long battery life, a spectacular design, and a camera that takes good daylight pictures. The poco m2 pro is a value for money device and I believe it is can give tough competition to its closest'}
+INFO:root:{'S.No': 2, 'Product Name': 'poco m2 pro', 'User Name': 'Mohammed Nayeem Ansari', 'Product Reating': '5', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Great product', 'Product Reviwe': "This is typical of Xiaomi phones. Only exception is  phone has less adsPacked with miui 12 features. Camera is pretty good. Nice display and I loved its back design. I dnt play too many games but the performance is very good. Didn't feel any lag.... If u want budget phone and a redmi fan go for it"}
+INFO:root:{'S.No': 3, 'Product Name': 'poco m2 pro', 'User Name': 'Paras Bhattt', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Classy product', 'Product Reviwe': "Such a amazing phoneDelivered 3 days early from the expected dateCamera is amazingProcessor 720 g is awesome and blazing fast performanceBattery is look like a 4500mah battery not like 5000 but still good battery backup.Front camera is 16 megapixel and is still amazing like 48 megapixel camera Only hate the thing that first two sales I didn't get it.but I recommend you please unboxing the product in front of the delivery boy.The cons isNo screen saver No 90 hertz display"}
+INFO:root:{'S.No': 4, 'Product Name': 'poco m2 pro', 'User Name': 'Lisa prabha Prabha', 'Product Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Delightful', 'Product Reviwe': "1.The camera is very good but it's better to use the regular      camera Or 48mp mode than choosing macro lens for macro photography.  2.Front camera is also really good. 3.I think this is the best smartphone in this price range and also has a premium look and great built quality too. 4.No heating trouble is there,no battery drainage till now😀. 5.There no heating trouble while playing games too(pubg, free fire etc). 6.Overall it's a good smartphone with great specs."}
+INFO:root:{'S.No': 5, 'Product Name': 'poco m2 pro', 'User Name': 'Narendra Singh', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Just wow!', 'Product Reviwe': 'I AM writing this Review after 7 days useBattery life is 36 hours for average users. Charging speed is Impressive 64% charge only in 30 minutes. Camera is quite good macro shot is most beautifull.. Nice processor.. Excellent sound.. Brightness is also good... Selfie camera can improve...'}
+INFO:root:{'S.No': 6, 'Product Name': 'poco m2 pro', 'User Name': 'Flipkart Customer', 'Product Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Terrific', 'Product Reviwe': "Hi all,As I have bought Poco M2 pro on first sale, I would like to share my review on this.I would give you my honest experience..I will talk only about the Lacunas/cons of this phone,1.Battery-it lasts only for 24 hrs by general use,(like phone call, YouTube, whatsup video call) without gaming, while gaming it's battery drains fastly, for charging it takes 1.21 hrs.2.Camera-As it is 48 MP, I personally did not find anything like 48 MP, rather samsung M30 has better quality of pics than ..."}
+INFO:root:{'S.No': 7, 'Product Name': 'poco m2 pro', 'User Name': 'Basanta Pal', 'Product Reating': '5', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Terrific purchase', 'Product Reviwe': 'best value for money..i like glass back with Gorilla glass 5 also front .the prosessor is so powerful . display is ok ok . camera good'}
+INFO:root:{'S.No': 8, 'Product Name': 'poco m2 pro', 'User Name': 'Arvind Arvind', 'Product Reating': '5', 'Reviwe Date': 'Feb, 2021', 'Reviwe Head': 'Terrific', 'Product Reviwe': 'GOODS 1. BEST BUDGET MOBILE IN THIS RANGE.2. SNAPDRAGON 720G ✨⚡👍 3. 33W FAST CHARGING SUPPORT (0 TO 100) JUST 52MINS . 4. ANDROID 10 MIUI 12 JUST OK 5. USER FRIENDLY6.NO ADS 7. CAMERA 48MG GOOD PICTURE AND 4K VIDEO EXCELLENT. 8. NIGHT MODE IS AWESOME.9. FRONT CAMERA BETTER 😺10. FACE UNLOCK VERY FASTER.11.  PORTRAIT SHOOT ARE GOOD . BADS1. WASTED LCD DISPLAY .2. SLIGHTLY HEATING ISSUES.3. CAMERA WORST .4. 4 CAMERA MACRO IS ONE OF THE WASTE IN PHONE.5. SOUND NOT LOUDLY COMPA...'}
+INFO:root:{'S.No': 9, 'Product Name': 'poco m2 pro', 'User Name': 'Chanakiya Varma', 'Product Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Really Nice', 'Product Reviwe': "This phone comes with decent specifications....And the audio output is pretty good. One who is looking for best camera then you should not buy this..though it has a samsung isocell camera sensor..it struggles a lot while focusing...Redmi note 7 pro even came with sony sensor...then i don't know why the upcoming phones are coming with samsung sensorWhile coming to the battery part...it gives a excellent battery backup..Screen On time would be 9.5hrs max .Display is good..I appreciate this p..."}
+INFO:root:{'S.No': 10, 'Product Name': 'poco m2 pro', 'User Name': 'sanjay mohanty', 'Product Reating': '4', 'Reviwe Date': 'Dec, 2020', 'Reviwe Head': 'Worth the money', 'Product Reviwe': 'SUPERB PHONE WITH GREAT PERFORMANCE..I ALWAYS PREFER POCO FOR HIS BETTER PERFORMANCE THEN OTHER PHONES....'}
+INFO:root:{'S.No': 11, 'Product Name': 'poco m2 pro', 'User Name': 'No name', 'Product Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:32:28] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:32:28] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:32:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:45:30] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:48:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:48:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:48:15] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:48:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:48:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 14:49:03] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:09:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:09:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'poco m2 pro', 'User Name': 'Rajeev Kumar', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Perfect product!', 'Product Reviwe': 'The phone offers good performance, average display, long battery life, a spectacular design, and a camera that takes good daylight pictures. The poco m2 pro is a value for money device and I believe it is can give tough competition to its closest'}
+INFO:root:{'S.No': 2, 'Product Name': 'poco m2 pro', 'User Name': 'Mohammed Nayeem Ansari', 'Reating': '5', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Great product', 'Product Reviwe': "This is typical of Xiaomi phones. Only exception is  phone has less adsPacked with miui 12 features. Camera is pretty good. Nice display and I loved its back design. I dnt play too many games but the performance is very good. Didn't feel any lag.... If u want budget phone and a redmi fan go for it"}
+INFO:root:{'S.No': 3, 'Product Name': 'poco m2 pro', 'User Name': 'Paras Bhattt', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Classy product', 'Product Reviwe': "Such a amazing phoneDelivered 3 days early from the expected dateCamera is amazingProcessor 720 g is awesome and blazing fast performanceBattery is look like a 4500mah battery not like 5000 but still good battery backup.Front camera is 16 megapixel and is still amazing like 48 megapixel camera Only hate the thing that first two sales I didn't get it.but I recommend you please unboxing the product in front of the delivery boy.The cons isNo screen saver No 90 hertz display"}
+INFO:root:{'S.No': 4, 'Product Name': 'poco m2 pro', 'User Name': 'Lisa prabha Prabha', 'Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Delightful', 'Product Reviwe': "1.The camera is very good but it's better to use the regular      camera Or 48mp mode than choosing macro lens for macro photography.  2.Front camera is also really good. 3.I think this is the best smartphone in this price range and also has a premium look and great built quality too. 4.No heating trouble is there,no battery drainage till now😀. 5.There no heating trouble while playing games too(pubg, free fire etc). 6.Overall it's a good smartphone with great specs."}
+INFO:root:{'S.No': 5, 'Product Name': 'poco m2 pro', 'User Name': 'Narendra Singh', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Just wow!', 'Product Reviwe': 'I AM writing this Review after 7 days useBattery life is 36 hours for average users. Charging speed is Impressive 64% charge only in 30 minutes. Camera is quite good macro shot is most beautifull.. Nice processor.. Excellent sound.. Brightness is also good... Selfie camera can improve...'}
+INFO:root:{'S.No': 6, 'Product Name': 'poco m2 pro', 'User Name': 'Flipkart Customer', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Terrific', 'Product Reviwe': "Hi all,As I have bought Poco M2 pro on first sale, I would like to share my review on this.I would give you my honest experience..I will talk only about the Lacunas/cons of this phone,1.Battery-it lasts only for 24 hrs by general use,(like phone call, YouTube, whatsup video call) without gaming, while gaming it's battery drains fastly, for charging it takes 1.21 hrs.2.Camera-As it is 48 MP, I personally did not find anything like 48 MP, rather samsung M30 has better quality of pics than ..."}
+INFO:root:{'S.No': 7, 'Product Name': 'poco m2 pro', 'User Name': 'Basanta Pal', 'Reating': '5', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Terrific purchase', 'Product Reviwe': 'best value for money..i like glass back with Gorilla glass 5 also front .the prosessor is so powerful . display is ok ok . camera good'}
+INFO:root:{'S.No': 8, 'Product Name': 'poco m2 pro', 'User Name': 'Arvind Arvind', 'Reating': '5', 'Reviwe Date': 'Feb, 2021', 'Reviwe Head': 'Terrific', 'Product Reviwe': 'GOODS 1. BEST BUDGET MOBILE IN THIS RANGE.2. SNAPDRAGON 720G ✨⚡👍 3. 33W FAST CHARGING SUPPORT (0 TO 100) JUST 52MINS . 4. ANDROID 10 MIUI 12 JUST OK 5. USER FRIENDLY6.NO ADS 7. CAMERA 48MG GOOD PICTURE AND 4K VIDEO EXCELLENT. 8. NIGHT MODE IS AWESOME.9. FRONT CAMERA BETTER 😺10. FACE UNLOCK VERY FASTER.11.  PORTRAIT SHOOT ARE GOOD . BADS1. WASTED LCD DISPLAY .2. SLIGHTLY HEATING ISSUES.3. CAMERA WORST .4. 4 CAMERA MACRO IS ONE OF THE WASTE IN PHONE.5. SOUND NOT LOUDLY COMPA...'}
+INFO:root:{'S.No': 9, 'Product Name': 'poco m2 pro', 'User Name': 'Chanakiya Varma', 'Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Really Nice', 'Product Reviwe': "This phone comes with decent specifications....And the audio output is pretty good. One who is looking for best camera then you should not buy this..though it has a samsung isocell camera sensor..it struggles a lot while focusing...Redmi note 7 pro even came with sony sensor...then i don't know why the upcoming phones are coming with samsung sensorWhile coming to the battery part...it gives a excellent battery backup..Screen On time would be 9.5hrs max .Display is good..I appreciate this p..."}
+INFO:root:{'S.No': 10, 'Product Name': 'poco m2 pro', 'User Name': 'sanjay mohanty', 'Reating': '4', 'Reviwe Date': 'Dec, 2020', 'Reviwe Head': 'Worth the money', 'Product Reviwe': 'SUPERB PHONE WITH GREAT PERFORMANCE..I ALWAYS PREFER POCO FOR HIS BETTER PERFORMANCE THEN OTHER PHONES....'}
+INFO:root:{'S.No': 11, 'Product Name': 'poco m2 pro', 'User Name': 'No name', 'Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:09:40] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:09:40] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:09:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:10:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:25] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:31] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:{'S.No': 1, 'Product Name': 'Vivo v11', 'User Name': 'Pritam  Bhattacharyya', 'Reating': '5', 'Reviwe Date': 'Nov, 2018', 'Reviwe Head': 'Awesome', 'Product Reviwe': 'excellent  deal.'}
+INFO:root:{'S.No': 2, 'Product Name': 'Vivo v11', 'User Name': 'Syamkumar s SYAM', 'Reating': '5', 'Reviwe Date': 'Oct, 2018', 'Reviwe Head': 'Perfect product!', 'Product Reviwe': 'Supper'}
+INFO:root:{'S.No': 3, 'Product Name': 'Vivo v11', 'User Name': 'anshu  vohra', 'Reating': '5', 'Reviwe Date': 'Nov, 2018', 'Reviwe Head': 'Awesome', 'Product Reviwe': 'good phone'}
+INFO:root:{'S.No': 4, 'Product Name': 'Vivo v11', 'User Name': 'Deepak  Sharma', 'Reating': '5', 'Reviwe Date': 'Sep, 2018', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'excellent phone ...and camera is superb quality'}
+INFO:root:{'S.No': 5, 'Product Name': 'Vivo v11', 'User Name': 'Avinash Pandey', 'Reating': '5', 'Reviwe Date': 'Sep, 2018', 'Reviwe Head': 'Must buy!', 'Product Reviwe': 'I am happy with the performance.'}
+INFO:root:{'S.No': 6, 'Product Name': 'Vivo v11', 'User Name': 'Malay Mohapatra', 'Reating': '5', 'Reviwe Date': 'Oct, 2018', 'Reviwe Head': 'Must buy!', 'Product Reviwe': 'I am giving this review after using the phone for 25 days. I must say that the camera quality is far best than any phone I have used till now. No heating issue. PUBG runs very smoothly without any lag. Display looks awesome. Face unlock is fastest than the speed of light. Only one issue that the in display fingerprint scanner takes long time to respond.'}
+INFO:root:{'S.No': 7, 'Product Name': 'Vivo v11', 'User Name': 'Zalak Patel', 'Reating': '5', 'Reviwe Date': 'Sep, 2018', 'Reviwe Head': 'Mind-blowing purchase', 'Product Reviwe': 'so beautiful'}
+INFO:root:{'S.No': 8, 'Product Name': 'Vivo v11', 'User Name': 'arun teja', 'Reating': '5', 'Reviwe Date': 'Mar, 2019', 'Reviwe Head': 'Awesome', 'Product Reviwe': 'Awesome camera'}
+INFO:root:{'S.No': 9, 'Product Name': 'Vivo v11', 'User Name': 'Flipkart Customer', 'Reating': '5', 'Reviwe Date': 'Sep, 2018', 'Reviwe Head': 'Great product', 'Product Reviwe': 'awesome phone  with awesome camera but battery life could have been better'}
+INFO:root:{'S.No': 10, 'Product Name': 'Vivo v11', 'User Name': 'Sreejith Unni', 'Reating': '5', 'Reviwe Date': 'May, 2019', 'Reviwe Head': 'Highly recommended', 'Product Reviwe': 'It is really nice phone...'}
+INFO:root:{'S.No': 11, 'Product Name': 'Vivo v11', 'User Name': 'No name', 'Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:50] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:50] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:51] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:12:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:{'S.No': 1, 'Product Name': 'Vivo y12', 'User Name': 'MOHD asif', 'Reating': '5', 'Reviwe Date': 'Sep, 2021', 'Reviwe Head': 'Super!', 'Product Reviwe': 'Super phone'}
+INFO:root:{'S.No': 2, 'Product Name': 'Vivo y12', 'User Name': 'Flipkart Customer', 'Reating': '4', 'Reviwe Date': 'Sep, 2021', 'Reviwe Head': 'Nice product', 'Product Reviwe': 'V good'}
+INFO:root:{'S.No': 3, 'Product Name': 'Vivo y12', 'User Name': 'Manu  Rj31 Aala', 'Reating': '1', 'Reviwe Date': 'Nov, 2021', 'Reviwe Head': 'Very poor', 'Product Reviwe': 'Super duper 😍😍👍👍👍🤞🤞'}
+INFO:root:{'S.No': 4, 'Product Name': 'Vivo y12', 'User Name': 'RAKESH  Kumar ', 'Reating': '5', 'Reviwe Date': 'Dec, 2021', 'Reviwe Head': 'Highly recommended', 'Product Reviwe': 'Best'}
+INFO:root:{'S.No': 5, 'Product Name': 'Vivo y12', 'User Name': 'Nehan  Merchant', 'Reating': '5', 'Reviwe Date': 'Nov, 2021', 'Reviwe Head': 'Best in the market!', 'Product Reviwe': 'Nice product 👍'}
+INFO:root:{'S.No': 6, 'Product Name': 'Vivo y12', 'User Name': 'David Chauhan', 'Reating': '5', 'Reviwe Date': 'Feb, 2022', 'Reviwe Head': 'Brilliant', 'Product Reviwe': "Very good product nice to have it it's feel royal in my hand in this price awesome product"}
+INFO:root:{'S.No': 7, 'Product Name': 'Vivo y12', 'User Name': 'Puja Barman', 'Reating': '4', 'Reviwe Date': 'Feb, 2022', 'Reviwe Head': 'Good quality product', 'Product Reviwe': 'I love it thanks Flipkart ♥️'}
+INFO:root:{'S.No': 8, 'Product Name': 'Vivo y12', 'User Name': 'Flipkart Customer', 'Reating': '4', 'Reviwe Date': 'Jan, 2022', 'Reviwe Head': 'Nice product', 'Product Reviwe': 'No damage... Phone is good'}
+INFO:root:{'S.No': 9, 'Product Name': 'Vivo y12', 'User Name': 'pankaj kumar  panda', 'Reating': '5', 'Reviwe Date': 'Sep, 2021', 'Reviwe Head': 'Terrific', 'Product Reviwe': 'Very good'}
+INFO:root:{'S.No': 10, 'Product Name': 'Vivo y12', 'User Name': 'DOLON MONDAL', 'Reating': '3', 'Reviwe Date': 'Jan, 2022', 'Reviwe Head': 'Nice', 'Product Reviwe': 'Good 👍'}
+INFO:root:{'S.No': 11, 'Product Name': 'Vivo y12', 'User Name': 'No name', 'Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:13:07] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:13:07] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:13:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:13:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:23:22] "GET /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:23:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:23:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:23:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:23:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:23:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-215-701
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:23:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:23:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'vivo y12', 'User Name': 'Manoj achar Manoj', 'Reating': '5', 'Reviwe Date': 'Jul, 2020', 'Reviwe Head': 'Mind-blowing purchase', 'Product Reviwe': 'Amazing'}
+INFO:root:{'S.No': 2, 'Product Name': 'vivo y12', 'User Name': 'Datta Shinde', 'Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Good quality product', 'Product Reviwe': 'Nice'}
+INFO:root:{'S.No': 3, 'Product Name': 'vivo y12', 'User Name': 'Flipkart Customer', 'Reating': '5', 'Reviwe Date': 'Nov, 2019', 'Reviwe Head': 'Mind-blowing purchase', 'Product Reviwe': 'nice camera ready 5000amh battry'}
+INFO:root:{'S.No': 4, 'Product Name': 'vivo y12', 'User Name': 'Vittal Katennavar', 'Reating': '3', 'Reviwe Date': 'Jan, 2020', 'Reviwe Head': 'Nice', 'Product Reviwe': 'nice product'}
+INFO:root:{'S.No': 5, 'Product Name': 'vivo y12', 'User Name': 'Rupesh Mandal', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Terrific purchase', 'Product Reviwe': 'Very nice'}
+INFO:root:{'S.No': 6, 'Product Name': 'vivo y12', 'User Name': 'Flipkart Customer', 'Reating': '4', 'Reviwe Date': 'Jul, 2019', 'Reviwe Head': 'Wonderful', 'Product Reviwe': 'A bit heavy!! I think the reason is its 5000 mAh battery...overall good!!'}
+INFO:root:{'S.No': 7, 'Product Name': 'vivo y12', 'User Name': 'Abir  chakraborty', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'Ya phone is good everything is ok  delivery in time'}
+INFO:root:{'S.No': 8, 'Product Name': 'vivo y12', 'User Name': 'RAVI SINGH', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Awesome', 'Product Reviwe': 'Excellent battery backup good camera finger lock super fast  & facelock also fast value of money Very nice product. Thanks  FLIPKART....'}
+INFO:root:{'S.No': 9, 'Product Name': 'vivo y12', 'User Name': 'Arun  Paswan ', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'It is nice product I like it so much camera is also nice and battery is so powerful it is very nice mobile I like it so much'}
+INFO:root:{'S.No': 10, 'Product Name': 'vivo y12', 'User Name': 'Amarjit Singh', 'Reating': '4', 'Reviwe Date': 'Jul, 2019', 'Reviwe Head': 'Really Nice', 'Product Reviwe': 'Good Product'}
+INFO:root:{'S.No': 11, 'Product Name': 'vivo y12', 'User Name': 'No name', 'Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:24:10] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:24:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:24:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:{'S.No': 1, 'Product Name': 'vivo y12', 'User Name': 'Manoj achar Manoj', 'Reating': '5', 'Reviwe Date': 'Jul, 2020', 'Reviwe Head': 'Mind-blowing purchase', 'Product Reviwe': 'Amazing'}
+INFO:root:{'S.No': 2, 'Product Name': 'vivo y12', 'User Name': 'Datta Shinde', 'Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Good quality product', 'Product Reviwe': 'Nice'}
+INFO:root:{'S.No': 3, 'Product Name': 'vivo y12', 'User Name': 'Flipkart Customer', 'Reating': '5', 'Reviwe Date': 'Nov, 2019', 'Reviwe Head': 'Mind-blowing purchase', 'Product Reviwe': 'nice camera ready 5000amh battry'}
+INFO:root:{'S.No': 4, 'Product Name': 'vivo y12', 'User Name': 'Vittal Katennavar', 'Reating': '3', 'Reviwe Date': 'Jan, 2020', 'Reviwe Head': 'Nice', 'Product Reviwe': 'nice product'}
+INFO:root:{'S.No': 5, 'Product Name': 'vivo y12', 'User Name': 'Rupesh Mandal', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Terrific purchase', 'Product Reviwe': 'Very nice'}
+INFO:root:{'S.No': 6, 'Product Name': 'vivo y12', 'User Name': 'Flipkart Customer', 'Reating': '4', 'Reviwe Date': 'Jul, 2019', 'Reviwe Head': 'Wonderful', 'Product Reviwe': 'A bit heavy!! I think the reason is its 5000 mAh battery...overall good!!'}
+INFO:root:{'S.No': 7, 'Product Name': 'vivo y12', 'User Name': 'Abir  chakraborty', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'Ya phone is good everything is ok  delivery in time'}
+INFO:root:{'S.No': 8, 'Product Name': 'vivo y12', 'User Name': 'RAVI SINGH', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Awesome', 'Product Reviwe': 'Excellent battery backup good camera finger lock super fast  & facelock also fast value of money Very nice product. Thanks  FLIPKART....'}
+INFO:root:{'S.No': 9, 'Product Name': 'vivo y12', 'User Name': 'Arun  Paswan ', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'It is nice product I like it so much camera is also nice and battery is so powerful it is very nice mobile I like it so much'}
+INFO:root:{'S.No': 10, 'Product Name': 'vivo y12', 'User Name': 'Amarjit Singh', 'Reating': '4', 'Reviwe Date': 'Jul, 2019', 'Reviwe Head': 'Really Nice', 'Product Reviwe': 'Good Product'}
+INFO:root:{'S.No': 11, 'Product Name': 'vivo y12', 'User Name': 'No name', 'Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:29:34] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:29:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 15:29:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:26:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:26:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:26:44] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:34:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:34:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:34:33] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:35:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:35:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:35:52] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:37:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:37:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'poco m2 pro', 'User Name': 'Banka Kumar', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Perfect product!', 'Product Reviwe': 'I use after five days I write this review the phone is very good and battery also good cam also good loud speaker and I appreciate the  33w fast charger and over all the phone is very good'}
+INFO:root:{'S.No': 2, 'Product Name': 'poco m2 pro', 'User Name': 'Vivek Benawadi', 'Reating': '4', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Wonderful', 'Product Reviwe': "The display is not very good when u start to use in sunlight.. Poco is good camera phone and u will get wonderful landscapes.. Battery backup is moderate.. Overall I can say it's good mobile.."}
+INFO:root:{'S.No': 3, 'Product Name': 'poco m2 pro', 'User Name': 'Vikram Gupta', 'Reating': '4', 'Reviwe Date': 'Feb, 2021', 'Reviwe Head': 'Very Good', 'Product Reviwe': "Display - its looks to be fine while using its moderate and intensity is okay according to outside (mainly according to sunlight).Colour contrast and videos performance are all okay  Size  - is large according to medium size hand and feels heavy while calling time (pains in hand😂) .Design - it's back Design dual shade colour gives you premium feel . Fingerprint sensor -  it's nice and very quick take less than a second to unlock a phone .Battery - is nice according to moderate user ..."}
+INFO:root:{'S.No': 4, 'Product Name': 'poco m2 pro', 'User Name': 'Hashim Khan', 'Reating': '5', 'Reviwe Date': 'Mar, 2021', 'Reviwe Head': 'Best in the market!', 'Product Reviwe': 'Great phone by comparison realme 7 purchase all time touch hanging but poco great touch response great camera for back and forth good prosser charging time not good but fast great camera for low light photo sample'}
+INFO:root:{'S.No': 5, 'Product Name': 'poco m2 pro', 'User Name': 'Nayan jyoti Sarma', 'Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Good quality product', 'Product Reviwe': "Camera is good in day light but in low light it is not what I expected it to be. Also pictures taken by its primary senser is bit warmer and skin colours are also saturated by it.And it feels bit heavy. U can't use it with one hand because of its width.And also lots of bloatware are pre installed on it and clean master is also there which takes all d permission and after that you can't deny it. Even calculator app wants numbers of permission. And one more Dangerous app is its default ME Brows..."}
+INFO:root:{'S.No': 6, 'Product Name': 'poco m2 pro', 'User Name': 'Raja mondal', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Super!', 'Product Reviwe': "Best Smartphone in this Price Range ❤️, I'm fully Satisfied , best display , best Touch response , Best Ram Management , and , and the best performance in Day to day Usage 🔥🔥"}
+INFO:root:{'S.No': 7, 'Product Name': 'poco m2 pro', 'User Name': 'Md . Altamash', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Must buy!', 'Product Reviwe': 'Best phone poco m2 pro😘 battery is very good and best price and charger 33W fast charger❤️'}
+INFO:root:{'S.No': 8, 'Product Name': 'poco m2 pro', 'User Name': 'Sohail 45', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Worth every penny', 'Product Reviwe': 'Satisfied with the product. Camera is good and battery is awesome.With 33 watt charger it charges very rapidly. Look is decent and I loved the side mounted fingerprint sensor.But banned apps are still present let us hope they remove them in next update.Overall excellent product in this price segment.'}
+INFO:root:{'S.No': 9, 'Product Name': 'poco m2 pro', 'User Name': 'ajith shaji', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Highly recommended', 'Product Reviwe': 'Nice phone, value for money, good fast charging,the camera was also good, anyway one of the best phone in this price range'}
+INFO:root:{'S.No': 10, 'Product Name': 'poco m2 pro', 'User Name': 'Indranil Dey', 'Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Delightful', 'Product Reviwe': 'Good phone at this price segment but there are some issues with this phone.. 1.After delivery I used this phone for 2 hr continue, it slightly heats up😞(mainly when I use the camera more than 15-20 min) 2.Display is very good, cinematic experience3.camera is average not too good because images are over exposed mainly the selfie camera and stabilization for video is low4.performance is very good and smooth due to processor5.battery back up and charging speed are excellent👍Overall it ...'}
+INFO:root:{'S.No': 11, 'Product Name': 'poco m2 pro', 'User Name': 'No name', 'Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:37:51] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:40:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:40:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'poco m2 pro', 'User Name': 'Banka Kumar', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Perfect product!', 'Product Reviwe': 'I use after five days I write this review the phone is very good and battery also good cam also good loud speaker and I appreciate the  33w fast charger and over all the phone is very good'}
+INFO:root:{'S.No': 2, 'Product Name': 'poco m2 pro', 'User Name': 'Vivek Benawadi', 'Reating': '4', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Wonderful', 'Product Reviwe': "The display is not very good when u start to use in sunlight.. Poco is good camera phone and u will get wonderful landscapes.. Battery backup is moderate.. Overall I can say it's good mobile.."}
+INFO:root:{'S.No': 3, 'Product Name': 'poco m2 pro', 'User Name': 'Vikram Gupta', 'Reating': '4', 'Reviwe Date': 'Feb, 2021', 'Reviwe Head': 'Very Good', 'Product Reviwe': "Display - its looks to be fine while using its moderate and intensity is okay according to outside (mainly according to sunlight).Colour contrast and videos performance are all okay  Size  - is large according to medium size hand and feels heavy while calling time (pains in hand😂) .Design - it's back Design dual shade colour gives you premium feel . Fingerprint sensor -  it's nice and very quick take less than a second to unlock a phone .Battery - is nice according to moderate user ..."}
+INFO:root:{'S.No': 4, 'Product Name': 'poco m2 pro', 'User Name': 'Hashim Khan', 'Reating': '5', 'Reviwe Date': 'Mar, 2021', 'Reviwe Head': 'Best in the market!', 'Product Reviwe': 'Great phone by comparison realme 7 purchase all time touch hanging but poco great touch response great camera for back and forth good prosser charging time not good but fast great camera for low light photo sample'}
+INFO:root:{'S.No': 5, 'Product Name': 'poco m2 pro', 'User Name': 'Nayan jyoti Sarma', 'Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Good quality product', 'Product Reviwe': "Camera is good in day light but in low light it is not what I expected it to be. Also pictures taken by its primary senser is bit warmer and skin colours are also saturated by it.And it feels bit heavy. U can't use it with one hand because of its width.And also lots of bloatware are pre installed on it and clean master is also there which takes all d permission and after that you can't deny it. Even calculator app wants numbers of permission. And one more Dangerous app is its default ME Brows..."}
+INFO:root:{'S.No': 6, 'Product Name': 'poco m2 pro', 'User Name': 'Raja mondal', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Super!', 'Product Reviwe': "Best Smartphone in this Price Range ❤️, I'm fully Satisfied , best display , best Touch response , Best Ram Management , and , and the best performance in Day to day Usage 🔥🔥"}
+INFO:root:{'S.No': 7, 'Product Name': 'poco m2 pro', 'User Name': 'Md . Altamash', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Must buy!', 'Product Reviwe': 'Best phone poco m2 pro😘 battery is very good and best price and charger 33W fast charger❤️'}
+INFO:root:{'S.No': 8, 'Product Name': 'poco m2 pro', 'User Name': 'Sohail 45', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Worth every penny', 'Product Reviwe': 'Satisfied with the product. Camera is good and battery is awesome.With 33 watt charger it charges very rapidly. Look is decent and I loved the side mounted fingerprint sensor.But banned apps are still present let us hope they remove them in next update.Overall excellent product in this price segment.'}
+INFO:root:{'S.No': 9, 'Product Name': 'poco m2 pro', 'User Name': 'ajith shaji', 'Reating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Highly recommended', 'Product Reviwe': 'Nice phone, value for money, good fast charging,the camera was also good, anyway one of the best phone in this price range'}
+INFO:root:{'S.No': 10, 'Product Name': 'poco m2 pro', 'User Name': 'Indranil Dey', 'Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Delightful', 'Product Reviwe': 'Good phone at this price segment but there are some issues with this phone.. 1.After delivery I used this phone for 2 hr continue, it slightly heats up😞(mainly when I use the camera more than 15-20 min) 2.Display is very good, cinematic experience3.camera is average not too good because images are over exposed mainly the selfie camera and stabilization for video is low4.performance is very good and smooth due to processor5.battery back up and charging speed are excellent👍Overall it ...'}
+INFO:root:{'S.No': 11, 'Product Name': 'poco m2 pro', 'User Name': 'No name', 'Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:40:50] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:42:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:42:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'vivo y12', 'User Name': 'Manoj achar Manoj', 'Reating': '5', 'Reviwe Date': 'Jul, 2020', 'Reviwe Head': 'Mind-blowing purchase', 'Product Reviwe': 'Amazing'}
+INFO:root:{'S.No': 2, 'Product Name': 'vivo y12', 'User Name': 'Datta Shinde', 'Reating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Good quality product', 'Product Reviwe': 'Nice'}
+INFO:root:{'S.No': 3, 'Product Name': 'vivo y12', 'User Name': 'Flipkart Customer', 'Reating': '5', 'Reviwe Date': 'Nov, 2019', 'Reviwe Head': 'Mind-blowing purchase', 'Product Reviwe': 'nice camera ready 5000amh battry'}
+INFO:root:{'S.No': 4, 'Product Name': 'vivo y12', 'User Name': 'Vittal Katennavar', 'Reating': '3', 'Reviwe Date': 'Jan, 2020', 'Reviwe Head': 'Nice', 'Product Reviwe': 'nice product'}
+INFO:root:{'S.No': 5, 'Product Name': 'vivo y12', 'User Name': 'Rupesh Mandal', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Terrific purchase', 'Product Reviwe': 'Very nice'}
+INFO:root:{'S.No': 6, 'Product Name': 'vivo y12', 'User Name': 'Flipkart Customer', 'Reating': '4', 'Reviwe Date': 'Jul, 2019', 'Reviwe Head': 'Wonderful', 'Product Reviwe': 'A bit heavy!! I think the reason is its 5000 mAh battery...overall good!!'}
+INFO:root:{'S.No': 7, 'Product Name': 'vivo y12', 'User Name': 'Abir  chakraborty', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'Ya phone is good everything is ok  delivery in time'}
+INFO:root:{'S.No': 8, 'Product Name': 'vivo y12', 'User Name': 'RAVI SINGH', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Awesome', 'Product Reviwe': 'Excellent battery backup good camera finger lock super fast  & facelock also fast value of money Very nice product. Thanks  FLIPKART....'}
+INFO:root:{'S.No': 9, 'Product Name': 'vivo y12', 'User Name': 'Arun  Paswan ', 'Reating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'It is nice product I like it so much camera is also nice and battery is so powerful it is very nice mobile I like it so much'}
+INFO:root:{'S.No': 10, 'Product Name': 'vivo y12', 'User Name': 'Amarjit Singh', 'Reating': '4', 'Reviwe Date': 'Jul, 2019', 'Reviwe Head': 'Really Nice', 'Product Reviwe': 'Good Product'}
+INFO:root:{'S.No': 11, 'Product Name': 'vivo y12', 'User Name': 'No name', 'Reating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:42:50] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug: * Detected change in '/config/workspace/scraper.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-582-631
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:43:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:43:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'vivo y12', 'User Name': 'Manoj achar Manoj', 'Rating': '5', 'Reviwe Date': 'Jul, 2020', 'Reviwe Head': 'Mind-blowing purchase', 'Product Reviwe': 'Amazing'}
+INFO:root:{'S.No': 2, 'Product Name': 'vivo y12', 'User Name': 'Datta Shinde', 'Rating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Good quality product', 'Product Reviwe': 'Nice'}
+INFO:root:{'S.No': 3, 'Product Name': 'vivo y12', 'User Name': 'Flipkart Customer', 'Rating': '5', 'Reviwe Date': 'Nov, 2019', 'Reviwe Head': 'Mind-blowing purchase', 'Product Reviwe': 'nice camera ready 5000amh battry'}
+INFO:root:{'S.No': 4, 'Product Name': 'vivo y12', 'User Name': 'Vittal Katennavar', 'Rating': '3', 'Reviwe Date': 'Jan, 2020', 'Reviwe Head': 'Nice', 'Product Reviwe': 'nice product'}
+INFO:root:{'S.No': 5, 'Product Name': 'vivo y12', 'User Name': 'Rupesh Mandal', 'Rating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Terrific purchase', 'Product Reviwe': 'Very nice'}
+INFO:root:{'S.No': 6, 'Product Name': 'vivo y12', 'User Name': 'Flipkart Customer', 'Rating': '4', 'Reviwe Date': 'Jul, 2019', 'Reviwe Head': 'Wonderful', 'Product Reviwe': 'A bit heavy!! I think the reason is its 5000 mAh battery...overall good!!'}
+INFO:root:{'S.No': 7, 'Product Name': 'vivo y12', 'User Name': 'Abir  chakraborty', 'Rating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'Ya phone is good everything is ok  delivery in time'}
+INFO:root:{'S.No': 8, 'Product Name': 'vivo y12', 'User Name': 'RAVI SINGH', 'Rating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Awesome', 'Product Reviwe': 'Excellent battery backup good camera finger lock super fast  & facelock also fast value of money Very nice product. Thanks  FLIPKART....'}
+INFO:root:{'S.No': 9, 'Product Name': 'vivo y12', 'User Name': 'Arun  Paswan ', 'Rating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'It is nice product I like it so much camera is also nice and battery is so powerful it is very nice mobile I like it so much'}
+INFO:root:{'S.No': 10, 'Product Name': 'vivo y12', 'User Name': 'Amarjit Singh', 'Rating': '4', 'Reviwe Date': 'Jul, 2019', 'Reviwe Head': 'Really Nice', 'Product Reviwe': 'Good Product'}
+INFO:root:{'S.No': 11, 'Product Name': 'vivo y12', 'User Name': 'No name', 'Rating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:43:34] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:43:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:43:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'poco ', 'User Name': 'RAM KUMAR', 'Rating': '1', 'Reviwe Date': '2 months ago', 'Reviwe Head': 'Horrible', 'Product Reviwe': 'big cheating mobile exange very bad experiance'}
+INFO:root:{'S.No': 2, 'Product Name': 'poco ', 'User Name': 'NITIN YOGI', 'Rating': '5', 'Reviwe Date': '1 month ago', 'Reviwe Head': 'Terrific', 'Product Reviwe': 'Perfect condition'}
+INFO:root:{'S.No': 3, 'Product Name': 'poco ', 'User Name': 'Faizan Ahmad ', 'Rating': '4', 'Reviwe Date': '2 months ago', 'Reviwe Head': 'Nice product', 'Product Reviwe': 'Camera nicely see 😁🤗🤠'}
+INFO:root:{'S.No': 4, 'Product Name': 'poco ', 'User Name': 'Moin Khan', 'Rating': '5', 'Reviwe Date': '2 months ago', 'Reviwe Head': 'Simply awesome', 'Product Reviwe': 'Justify with the price Good mobile for basic usage display and back is average'}
+INFO:root:{'S.No': 5, 'Product Name': 'poco ', 'User Name': 'Habiba Khatun', 'Rating': '5', 'Reviwe Date': '2 months ago', 'Reviwe Head': 'Great product', 'Product Reviwe': 'Good'}
+INFO:root:{'S.No': 6, 'Product Name': 'poco ', 'User Name': 'PREM PRAKASH', 'Rating': '5', 'Reviwe Date': '2 months ago', 'Reviwe Head': 'Classy product', 'Product Reviwe': 'For this price, the phone is good, not for gaming. But you use simple game'}
+INFO:root:{'S.No': 7, 'Product Name': 'poco ', 'User Name': 'Flipkart Customer', 'Rating': '5', 'Reviwe Date': '2 months ago', 'Reviwe Head': 'Must buy!', 'Product Reviwe': 'Best quality of products'}
+INFO:root:{'S.No': 8, 'Product Name': 'poco ', 'User Name': 'Vetri Kumaran', 'Rating': '3', 'Reviwe Date': '1 month ago', 'Reviwe Head': 'Good', 'Product Reviwe': 'Next mobile 📲'}
+INFO:root:{'S.No': 9, 'Product Name': 'poco ', 'User Name': 'Shubham Kashyap ', 'Rating': '5', 'Reviwe Date': '2 months ago', 'Reviwe Head': 'Classy product', 'Product Reviwe': 'Osm'}
+INFO:root:{'S.No': 10, 'Product Name': 'poco ', 'User Name': 'Kapil Kashyap', 'Rating': '5', 'Reviwe Date': '2 months ago', 'Reviwe Head': 'Highly recommended', 'Product Reviwe': 'Nice product nice Phone 📱'}
+INFO:root:{'S.No': 11, 'Product Name': 'poco ', 'User Name': 'No name', 'Rating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:44:18] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:44:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:44:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:{'S.No': 1, 'Product Name': 'poco m2 pro', 'User Name': 'Banka Kumar', 'Rating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Perfect product!', 'Product Reviwe': 'I use after five days I write this review the phone is very good and battery also good cam also good loud speaker and I appreciate the  33w fast charger and over all the phone is very good'}
+INFO:root:{'S.No': 2, 'Product Name': 'poco m2 pro', 'User Name': 'Vivek Benawadi', 'Rating': '4', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Wonderful', 'Product Reviwe': "The display is not very good when u start to use in sunlight.. Poco is good camera phone and u will get wonderful landscapes.. Battery backup is moderate.. Overall I can say it's good mobile.."}
+INFO:root:{'S.No': 3, 'Product Name': 'poco m2 pro', 'User Name': 'Vikram Gupta', 'Rating': '4', 'Reviwe Date': 'Feb, 2021', 'Reviwe Head': 'Very Good', 'Product Reviwe': "Display - its looks to be fine while using its moderate and intensity is okay according to outside (mainly according to sunlight).Colour contrast and videos performance are all okay  Size  - is large according to medium size hand and feels heavy while calling time (pains in hand😂) .Design - it's back Design dual shade colour gives you premium feel . Fingerprint sensor -  it's nice and very quick take less than a second to unlock a phone .Battery - is nice according to moderate user ..."}
+INFO:root:{'S.No': 4, 'Product Name': 'poco m2 pro', 'User Name': 'Hashim Khan', 'Rating': '5', 'Reviwe Date': 'Mar, 2021', 'Reviwe Head': 'Best in the market!', 'Product Reviwe': 'Great phone by comparison realme 7 purchase all time touch hanging but poco great touch response great camera for back and forth good prosser charging time not good but fast great camera for low light photo sample'}
+INFO:root:{'S.No': 5, 'Product Name': 'poco m2 pro', 'User Name': 'Nayan jyoti Sarma', 'Rating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Good quality product', 'Product Reviwe': "Camera is good in day light but in low light it is not what I expected it to be. Also pictures taken by its primary senser is bit warmer and skin colours are also saturated by it.And it feels bit heavy. U can't use it with one hand because of its width.And also lots of bloatware are pre installed on it and clean master is also there which takes all d permission and after that you can't deny it. Even calculator app wants numbers of permission. And one more Dangerous app is its default ME Brows..."}
+INFO:root:{'S.No': 6, 'Product Name': 'poco m2 pro', 'User Name': 'Raja mondal', 'Rating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Super!', 'Product Reviwe': "Best Smartphone in this Price Range ❤️, I'm fully Satisfied , best display , best Touch response , Best Ram Management , and , and the best performance in Day to day Usage 🔥🔥"}
+INFO:root:{'S.No': 7, 'Product Name': 'poco m2 pro', 'User Name': 'Md . Altamash', 'Rating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Must buy!', 'Product Reviwe': 'Best phone poco m2 pro😘 battery is very good and best price and charger 33W fast charger❤️'}
+INFO:root:{'S.No': 8, 'Product Name': 'poco m2 pro', 'User Name': 'Sohail 45', 'Rating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Worth every penny', 'Product Reviwe': 'Satisfied with the product. Camera is good and battery is awesome.With 33 watt charger it charges very rapidly. Look is decent and I loved the side mounted fingerprint sensor.But banned apps are still present let us hope they remove them in next update.Overall excellent product in this price segment.'}
+INFO:root:{'S.No': 9, 'Product Name': 'poco m2 pro', 'User Name': 'ajith shaji', 'Rating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Highly recommended', 'Product Reviwe': 'Nice phone, value for money, good fast charging,the camera was also good, anyway one of the best phone in this price range'}
+INFO:root:{'S.No': 10, 'Product Name': 'poco m2 pro', 'User Name': 'Indranil Dey', 'Rating': '4', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Delightful', 'Product Reviwe': 'Good phone at this price segment but there are some issues with this phone.. 1.After delivery I used this phone for 2 hr continue, it slightly heats up😞(mainly when I use the camera more than 15-20 min) 2.Display is very good, cinematic experience3.camera is average not too good because images are over exposed mainly the selfie camera and stabilization for video is low4.performance is very good and smooth due to processor5.battery back up and charging speed are excellent👍Overall it ...'}
+INFO:root:{'S.No': 11, 'Product Name': 'poco m2 pro', 'User Name': 'No name', 'Rating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:44:47] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:44:47] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 16:44:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-083-274
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 18:57:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 18:57:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:{'S.No': 1, 'Product Name': 'iphone11', 'User Name': 'Manish  Deshlahare', 'Rating': '5', 'Reviwe Date': 'Jul, 2020', 'Reviwe Head': 'Terrific', 'Product Reviwe': 'Very very good'}
+INFO:root:{'S.No': 2, 'Product Name': 'iphone11', 'User Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'Reviwe Date': 'Apr, 2021', 'Reviwe Head': 'Classy product', 'Product Reviwe': 'Camera is awesomeBest battery backupA performer 👌🏻It will be a real value for money if they provide charger and earphone inbox!'}
+INFO:root:{'S.No': 3, 'Product Name': 'iphone11', 'User Name': 'Dev', 'Rating': '5', 'Reviwe Date': 'Jun, 2020', 'Reviwe Head': 'Terrific purchase', 'Product Reviwe': 'Value for money 😍'}
+INFO:root:{'S.No': 4, 'Product Name': 'iphone11', 'User Name': 'Flipkart Customer', 'Rating': '5', 'Reviwe Date': 'Jan, 2021', 'Reviwe Head': 'Wonderful', 'Product Reviwe': 'This is amazing at all'}
+INFO:root:{'S.No': 5, 'Product Name': 'iphone11', 'User Name': 'Shwarif  Hussain', 'Rating': '5', 'Reviwe Date': 'May, 2021', 'Reviwe Head': 'Brilliant', 'Product Reviwe': 'Excellent Phone.'}
+INFO:root:{'S.No': 6, 'Product Name': 'iphone11', 'User Name': 'vikash  Yadav', 'Rating': '5', 'Reviwe Date': 'Sep, 2020', 'Reviwe Head': 'Must buy!', 'Product Reviwe': 'It’s really awesome'}
+INFO:root:{'S.No': 7, 'Product Name': 'iphone11', 'User Name': 'Vikram rapolu', 'Rating': '5', 'Reviwe Date': 'Aug, 2020', 'Reviwe Head': 'Just wow!', 'Product Reviwe': 'Perfect Product!!'}
+INFO:root:{'S.No': 8, 'Product Name': 'iphone11', 'User Name': 'Flipkart Customer', 'Rating': '5', 'Reviwe Date': 'Apr, 2021', 'Reviwe Head': 'Must buy!', 'Product Reviwe': 'Go for iPhone 11 , if confused between iPhone 11 or iPhone 12 mini.Battery Life is enhanced , it worked for complete 2 days without charging it. Explored new features of taking screenshot by clicking on apple logo by Haptic Touch , Portrait mode with stage effect enhanced & slow motion selfie.'}
+INFO:root:{'S.No': 9, 'Product Name': 'iphone11', 'User Name': 'Steevan Rattra ', 'Rating': '5', 'Reviwe Date': 'Nov, 2019', 'Reviwe Head': 'Best in the market!', 'Product Reviwe': 'Good Camera'}
+INFO:root:{'S.No': 10, 'Product Name': 'iphone11', 'User Name': 'Abhishek Sachdeva', 'Rating': '5', 'Reviwe Date': 'Jan, 2020', 'Reviwe Head': 'Worth every penny', 'Product Reviwe': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}
+INFO:root:{'S.No': 11, 'Product Name': 'iphone11', 'User Name': 'No name', 'Rating': 'No rating', 'Reviwe Date': ' Date Not avilable', 'Reviwe Head': ' No comment Head', 'Product Reviwe': 'No comment'}
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 18:57:23] "POST /reviwe HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 18:57:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Jul/2023 18:57:24] "[33mGET /style.css HTTP/1.1[0m" 404 -

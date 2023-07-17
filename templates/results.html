@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Review Page</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+</head>
+
+<body>
+
+  <div class="table-users">
+   <div class="header">Reviews</div>
+
+   <table cellspacing="0">
+      <tr>
+        <th>S.No</th>
+        <th>Product Name</th>
+        <th>User Name</th>
+        <th>Product Reating</th>
+        <th>Reviwe Date</th>
+        <th>Comment Heading</th>
+        <th width="230">Product Reviwe</th>
+      </tr>
+      {% for reviwe in reviews %}
+        <tr>
+          <td>{{reviwe['S.No']}}</td>
+          <td>{{reviwe['Product Name']}}</td>
+          <td>{{reviwe['User Name']}}</td>
+          <td>{{reviwe['Product Reating']}}</td>
+          <td>{{reviwe['Reviwe Date']}}</td>
+          <td>{{reviwe['Reviwe Head']}}</td>
+          <td>{{reviwe['Product Reviwe']}} </td>
+         
+      {% endfor %}
+
+   </table>
+</div>
+
+
+
+</body>
+
+</html>
